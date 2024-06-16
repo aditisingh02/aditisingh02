@@ -18,6 +18,7 @@
 <h1></h1>
 <div align=center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aditisingh02&theme=shadow-purple&hide_border=true&currStreakNum=EBEBEB&fire=EB6E00&ring=5E00EB&sideNums=C7A8EB&dates=EBEBEB&currStreakLabel=B5AEEB&sideLabels=7771EB&background=45%2C00000000%2C8000EB81)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aditisingh02&theme=shadow-purple&hide_border=true&card_width=470&card_height=180&currStreakNum=EBEBEB&fire=EB6E00&ring=5E00EB&sideNums=C7A8EB&dates=EBEBEB&currStreakLabel=B5AEEB&sideLabels=7771EB&background=45%2C00000000%2C8000EB81)](https://git.io/streak-stats)
+
 [![aditisingh02's GitHub | Stats](https://stats.quine.sh/aditisingh02/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aditisingh02)
 </div>
