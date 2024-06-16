@@ -18,7 +18,7 @@
 <h1></h1>
 <div align=center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aditisingh02&theme=shadow-purple&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aditisingh02&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
 
 [![aditisingh02's GitHub | Stats](https://stats.quine.sh/aditisingh02/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aditisingh02)
 </div>
