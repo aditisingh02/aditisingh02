@@ -10,13 +10,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/aditi-singh-the-solid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aditi-singh-the-solid" height="30" width="40" /></a>
+
 <a href="https://twitter.com/aditisingh012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aditisingh012" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aditi-singh-a23785285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditi-singh-a23785285" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/25595985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25595985" height="30" width="40" /></a>
-<a href="https://medium.com/@aditi.singh0205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aditi.singh0205" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aditisingh02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aditisingh02" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/aditisingh2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aditisingh2" height="30" width="40" /></a>
+<a href="https://codepen.io/aditi-singh-the-solid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aditi-singh-the-solid" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/25595985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25595985" height="30" width="40" /></a>
+<a href="https://medium.com/@aditi.singh0205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aditi.singh0205" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
