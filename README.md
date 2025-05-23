@@ -5,7 +5,7 @@
 All of my projects are available at [my portfolio](https://aditi-singh.xyz/)<br> Contact me @ [aditi.singh0205@gmail.com](mailto:aditi.singh0205@gmail.com)
 
 ## Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/aditi-singh02) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@aditi.singh0205) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/aditisingh012) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:aditi.singh0205@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/aditi-singh02) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@aditi.singh0205) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/aditisingh012) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:aditi.singh0205@gmail.com) [![portfolio](https://img.shields.io/badge/Portfolio-2f00bd?logo=posrtfolio&logoColor=white&style=for-the-badge)](https://aditi-singh.xyz/) 
 ###
 [![Codechef](https://img.shields.io/badge/codechef-%23F24E1E.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aditisingh02) 
 [![Codeforces](https://img.shields.io/badge/Codeforces-%23ffffff.svg?style=for-the-badge&logo=codeforces&logoColor=black)](https://codeforces.com/profile/aditisingh2) 
