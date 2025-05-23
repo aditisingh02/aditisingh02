@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=aditisingh02&label=Profile%20views&color=002829&style=for-the-badge&base=200" alt="aditisingh02" />
 
-All of my projects are available at [my portfolio](https://aditisingh.xyz/)<br> Contact me @ [aditi.singh0205@gmail.com](mailto:aditi.singh0205@gmail.com)
+All of my projects are available at [my portfolio](https://aditi-singh.xyz/)<br> Contact me @ [aditi.singh0205@gmail.com](mailto:aditi.singh0205@gmail.com)
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/aditi-singh02) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@aditi.singh0205) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/aditisingh012) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:aditi.singh0205@gmail.com) 
